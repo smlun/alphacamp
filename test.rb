@@ -20,3 +20,4 @@ puts are_there_duplicates(nums2)
 puts "Ming Lun"
 puts "Ming Lun again"
 puts "ming lun once more"
+puts "HELLO YAOMIN"
