@@ -1,4 +1,5 @@
 
+
 def are_there_duplicates(nums)
   nums_copy = nums.clone 
   for i in nums
@@ -16,4 +17,6 @@ puts are_there_duplicates(nums)
 puts are_there_duplicates(nums1)
 puts are_there_duplicates(nums2)
 
-puts "HELLO WORLD"
+puts "Ming Lun"
+puts "Ming Lun again"
+puts "ming lun once more"
