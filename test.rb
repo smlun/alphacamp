@@ -16,4 +16,4 @@ puts are_there_duplicates(nums)
 puts are_there_duplicates(nums1)
 puts are_there_duplicates(nums2)
 
-puts "HELLO WORLD"
+puts "HELLO YAOMIN"
