@@ -15,3 +15,5 @@ nums2 = [1,2,3,4]
 puts are_there_duplicates(nums)
 puts are_there_duplicates(nums1)
 puts are_there_duplicates(nums2)
+
+puts "HELLO WORLD"
